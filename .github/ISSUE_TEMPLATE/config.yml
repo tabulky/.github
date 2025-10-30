@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Diskuze a otázky / Discussions and Questions
+    url: https://github.com/tabulky/.github/discussions
+    about: Pokládejte otázky, sdílejte nápady a diskutujte s komunitou / Ask questions, share ideas and discuss with the community
+  - name: 📚 Dokumentace / Documentation
+    url: https://github.com/tabulky/.github
+    about: Přečtěte si dokumentaci projektu / Read the project documentation

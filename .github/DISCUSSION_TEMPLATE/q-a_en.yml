@@ -1,0 +1,20 @@
+---
+title: "Question: "
+labels: ["q&a"]
+---
+
+## ❓ Your Question
+
+Ask your question clearly and concisely.
+
+## 🔍 What Have You Already Tried?
+
+Describe what you have already tried or where you looked for an answer.
+
+## 📋 Context
+
+Provide any additional context that could help answer your question.
+
+- **Data Format**: (e.g., JSON, CSV, XML)
+- **Data Size**: (e.g., small, medium, large)
+- **Environment**: (e.g., Node.js, Python, browser)
