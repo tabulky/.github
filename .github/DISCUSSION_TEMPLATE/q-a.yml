@@ -1,0 +1,20 @@
+---
+title: "Otázka: "
+labels: ["q&a"]
+---
+
+## ❓ Vaše otázka
+
+Položte svou otázku jasně a stručně.
+
+## 🔍 Co jste již zkoušeli?
+
+Popište, co jste již vyzkoušeli nebo kde jste hledali odpověď.
+
+## 📋 Kontext
+
+Poskytněte jakýkoliv další kontext, který by mohl pomoci odpovědět na vaši otázku.
+
+- **Formát dat**: (např. JSON, CSV, XML)
+- **Velikost dat**: (např. malá, střední, velká)
+- **Prostředí**: (např. Node.js, Python, prohlížeč)
