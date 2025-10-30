@@ -86,7 +86,7 @@ Tento projekt dodržuje [Kodex chování](CODE_OF_CONDUCT.md). Účastí se oče
 
 ## Licence
 
-Přispěním do tohoto projektu souhlasíte s tím, že vaše příspěvky budут licencovány pod stejnou licencí jako projekt.
+Přispěním do tohoto projektu souhlasíte s tím, že vaše příspěvky budou licencovány pod stejnou licencí jako projekt.
 
 ## Děkujeme!
 

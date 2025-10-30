@@ -35,7 +35,7 @@ Pomozte nám lépe porozumět problému tím, že zahrnete:
 
 - **Potvrzení**: Potvrdíme přijetí vašeho hlášení do 48 hodin
 - **Komunikace**: Budeme vás informovat o postupu řešení
-- **Oprava**: Budeme pracovat na opraven co nejrychleji
+- **Oprava**: Budeme pracovat na opravě co nejrychleji
 - **Zveřejnění**: Zveřejníme opravu a oceníme vaši pomoc (pokud si to budete přát)
 
 ## Podporované verze
